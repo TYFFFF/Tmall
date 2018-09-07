@@ -1,0 +1,102 @@
+@charset 'UTF-8';
+#footer{
+	height:560px;
+}
+#footer .footer-server{
+	height:127px;
+}
+#footer .footer-server .footer-server-content{
+	width:1230px;
+	height:125px;
+	margin:auto;
+	margin-top:25px;
+	border-bottom:1px solid #ededed;
+}
+#footer .footer-server .footer-server-content a img{
+	margin-left:25px;
+}
+#footer .footer-desc{
+	height:215px;
+}
+#footer .footer-desc .footer-desc-content{
+	width:1230px;
+	height:90%;
+	padding-top:22px;
+	margin:auto;
+	background-image:url('../images/80.png');
+	background-repeat:no-repeat;
+	background-size:70px;
+	background-position:80px 190px;
+}
+#footer .footer-desc .footer-desc-content .footer-desc-list>h3{
+	float:left;
+	color:#646464;
+	font-size:16px;
+	margin-bottom:5px;
+}
+#footer .footer-desc .footer-desc-content .footer-desc-list{
+	float:left;
+	margin-left:84px;
+    margin-right:85px;
+}
+#footer .footer-desc .footer-desc-content .footer-desc-list>ul{
+}
+#footer .footer-desc .footer-desc-content .footer-desc-list>ul li{
+	width:60px;
+}
+#footer .footer-desc .footer-desc-content .footer-desc-list>ul li a{
+	color:#8b8b8b;
+}
+#footer .footer-desc .footer-desc-content .footer-desc-list>a img{
+	display:block;
+}
+#footer .footer-about{
+	height:220px;
+	background-color:#000;
+	border-top:2px solid #ff0036;
+}
+#footer .footer-about .footer-about-content{
+	width:1230px;
+	height:100%;
+	margin:auto;
+}
+#footer .footer-about .footer-about-content .footer-friend{
+	height:55px;
+}
+#footer .footer-about-content .footer-friend ul li{
+	display:inline-block;
+	padding-right:5px;
+	line-height:14px;
+}
+#footer .footer-about-content .footer-friend:first-child li{
+	margin-top:7px;
+    margin-bottom:8px;
+}
+#footer .footer-about-content .footer-friend ul li a{
+	color:#fff;
+}
+#footer .footer-about-content .footer-friend ul li:last-child{
+	border-right:none;
+}
+#footer .footer-about-content .footer-friend .list li{
+	border-right:1px solid #fff;
+}
+#footer .footer-about-content .footer-copyright{
+	color:#a4a4a4;
+}
+#footer .footer-about-content .footer-copyright p{
+	display:inline-block;
+}
+#footer .footer-about-content .footer-copyright>:nth-child(-n+3){
+	margin-right:65px;
+}
+#footer .footer-about-content .footer-copyright>:nth-child(5){
+	margin-right:65px;
+}
+#footer .footer-about-content .footer-copyright>:nth-child(6){
+	margin-right:65px;
+}
+#footer .footer-about-content .footer-copyright .on{
+	display:block;
+	color:#686868;
+}
